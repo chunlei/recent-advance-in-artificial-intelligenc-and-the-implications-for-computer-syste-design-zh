@@ -11,3 +11,4 @@
 <div align=center>
 ![封面](https://github.com/whitelok/recent-advance-in-artificial-intelligenc-and-the-implications-for-computer-syste-design-zh/raw/master/frontpage.png)
 </div>
+<img src="https://github.com/whitelok/recent-advance-in-artificial-intelligenc-and-the-implications-for-computer-syste-design-zh/raw/master/frontpage.png" width="100%" />
